@@ -1,0 +1,4 @@
+rootProject.name = 'gradleTast'
+include 'api'
+include 'core'
+
